@@ -15,7 +15,7 @@ CryptoBar is a lightweight and user-friendly macOS menu bar application for trac
 - [License](#license)
 - [FAQ](#faq)
 - [Acknowledgments](#acknowledgments)
-- [App Interface](app-nterface)
+- [App Interface](#app-interface)
 
 ## Features
 --------
@@ -148,27 +148,27 @@ A: No. CryptoBar never tracks your activity or sends data to third parties.
 >   **Main Interface**
 <details>
   <summary>Click to view</summary>
-  <img src="https://github.com/user-attachments/assets/6ccd2bb5-fabd-4444-bf74-500fea310ad5" alt="Main Interface">
+  <img src="https://github.com/user-attachments/assets/e63ed21d-24b1-41d8-b06b-79e35c18ce26" alt="Main Interface">
 </details>
 
 >   **Settings**:  `General`,`Updates`,`About`
   
 <details>
   <summary>Click to view</summary>
-  <img src="https://github.com/user-attachments/assets/950a58a9-ad24-4762-a0e5-952cb1b26c34" alt="General">
+  <img src="https://github.com/user-attachments/assets/f2da7b6a-16f2-45c6-bf3a-8e3f7c77a3e9" alt="General">
 </details>
 <details>
   <summary>Click to view</summary>
-  <img src="https://github.com/user-attachments/assets/5cace00c-ad76-45e5-a00b-2438d716cd7f" alt="Updates">
+  <img src="https://github.com/user-attachments/assets/83cefc66-28c0-4662-82bf-3d10822ac49d" alt="Updates">
 </details>
 <details>
   <summary>Click to view</summary>
-  <img src="https://github.com/user-attachments/assets/04b894ee-cfc5-4a1f-adbf-79f4d9535b3e" alt="About">
+  <img src="https://github.com/user-attachments/assets/b1352db7-bc9a-43f0-b93d-ee6476e29684" alt="About">
 </details>
 
 >   **Support**
   
 <details>
   <summary>Click to view</summary>
-  <img src="https://github.com/user-attachments/assets/6b35600c-43bc-40cb-82bf-aab7edbef364" alt="Support">
+  <img src="https://github.com/user-attachments/assets/326b9e8e-b1df-4c2a-8636-c1a4ae1f5c33" alt="Support">
 </details>
